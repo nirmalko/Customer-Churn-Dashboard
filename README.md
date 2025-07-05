@@ -10,9 +10,9 @@ This project is a Power BI dashboard designed to analyze customer churn patterns
 
 ### 3. Tech Stack
 •      📊 Power BI – for interactive data visualization and dashboard development
-•       📝 Microsoft Excel / CSV – for data storage and preprocessing
+•      📝 Microsoft Excel / CSV – for data storage and preprocessing
 •      📂 Power Query – for data transformation and cleaning
-•       🧠 DAX (Data Analysis Expressions) – for calculated columns and measures
+•      🧠 DAX (Data Analysis Expressions) – for calculated columns and measures
 
 ### 4. Data Source
 The dataset used is the Telco Customer Churn Dataset, sourced from Kaggle. It contains customer demographics, account information, service usage, and churn labels.
