@@ -9,10 +9,10 @@ What the d ashboard does and wht it exists:
 This project is a Power BI dashboard designed to analyze customer churn patterns. It helps identify which customers are likely to leave and uncovers key factors contributing to churn. The goal is to support businesses in making data-driven decisions to improve customer retention and reduce churn rates.
 
 ### 3. Tech Stack
-•      📊 Power BI – for interactive data visualization and dashboard development
-•      📝 Microsoft Excel / CSV – for data storage and preprocessing
-•      📂 Power Query – for data transformation and cleaning
-•      🧠 DAX (Data Analysis Expressions) – for calculated columns and measures
+•      📊 Power BI – For interactive data visualization and dashboard development
+•      📝 Microsoft Excel / CSV – For data storage and preprocessing
+•      📂 Power Query – For data transformation and cleaning
+•      🧠 DAX (Data Analysis Expressions) – For calculated columns and measures
 
 ### 4. Data Source
 The dataset used is the Telco Customer Churn Dataset, sourced from Kaggle. It contains customer demographics, account information, service usage, and churn labels.
