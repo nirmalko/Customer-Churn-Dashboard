@@ -4,19 +4,20 @@
 Customer Churn Analytics: Customer Churn Insights Dashboard
 A dynamic, interactive data visualization tool built to explore worldwide focusing on Customer Churn trends, Data-Driven Decision Making, Identify High-Risk     Customer Segments, Improve Customer Lifetime Value.
 
-What the dashboard does and wht it exists:
+### 2. Short Description / Purpose
+What the d ashboard does and wht it exists:
 This project is a Power BI dashboard designed to analyze customer churn patterns. It helps identify which customers are likely to leave and uncovers key factors contributing to churn. The goal is to support businesses in making data-driven decisions to improve customer retention and reduce churn rates.
 
-Tech Stack
-Power BI – for interactive data visualization and dashboard development
-Microsoft Excel / CSV – for data storage and preprocessing
-Power Query – for data transformation and cleaning
-DAX (Data Analysis Expressions) – for calculated columns and measures
+###3. Tech Stack
+📊 Power BI – for interactive data visualization and dashboard development
+📝 Microsoft Excel / CSV – for data storage and preprocessing
+📂 Power Query – for data transformation and cleaning
+🧠 DAX (Data Analysis Expressions) – for calculated columns and measures
 
-Data Source
+### 4. Data Source
 The dataset used is the Telco Customer Churn Dataset, sourced from Kaggle. It contains customer demographics, account information, service usage, and churn labels.
 
-Highlights / Features
+### 5. Highlights / Features
 1. Business Problem:
    Customer churn significantly impacts long-term revenue and profitability. Many companies struggle to identify early warning signs and understand why             customers leave, leading to reactive strategies and poor retention outcomes.
 2. Goal of the Dashboard:
@@ -33,6 +34,6 @@ Highlights / Features
    -Enables data-driven decisions for improving customer experience and loyalty.
    -Provides a repeatable framework that can be adapted for different industries or datasets.
 
-Screenshots
+### 6. Screenshots
 ![Alt Text](https://github.com/nirmalko/Customer-Churn-Dashboard/blob/main/Power%20bi_report_snapshot.png)
 
