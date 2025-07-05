@@ -32,5 +32,5 @@ Highlights / Features
    -Provides a repeatable framework that can be adapted for different industries or datasets.
 
 Screenshots
-![Alt Text]()
+![Alt Text](https://github.com/nirmalko/Customer-Churn-Dashboard/blob/main/Power%20bi_report_snapshot.png)
 
