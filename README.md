@@ -1,11 +1,12 @@
 # Customer-Churn-Dashboard
-Recommended Structure and Order
-1. Customer Churn Analytics: Customer Churn Insights Dashboard
+## Recommended Structure and Order
+### 1.	Project Title / Headline
+A concise, descriptive name for the dashboard.
+Example: 
+❄️Customer Churn Analytics: Customer Churn Insights Dashboard
+A dynamic, interactive data visualization tool built to explore worldwide focusing on Customer Churn trends, Data-Driven Decision Making, Identify High-Risk     Customer Segments, Improve Customer Lifetime Value.
 
- A dynamic, interactive data visualization tool built to explore worldwide focusing on Customer Churn trends, Data-Driven Decision Making, Identify High-Risk     Customer Segments, Improve Customer Lifetime Value.
-
-2. What the dashboard does and wht it exists:
-
+What the dashboard does and wht it exists:
 This project is a Power BI dashboard designed to analyze customer churn patterns. It helps identify which customers are likely to leave and uncovers key factors contributing to churn. The goal is to support businesses in making data-driven decisions to improve customer retention and reduce churn rates.
 
 Tech Stack
