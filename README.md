@@ -34,6 +34,7 @@ The dataset used is the Telco Customer Churn Dataset, sourced from Kaggle. It co
    -Enables data-driven decisions for improving customer experience and loyalty.
    -Provides a repeatable framework that can be adapted for different industries or datasets.
 
-### 6. Screenshots
+### 6. Screenshot
+
 ![Alt Text](https://github.com/nirmalko/Customer-Churn-Dashboard/blob/main/Power%20bi_report_snapshot.png)
 
