@@ -8,7 +8,7 @@ A dynamic, interactive data visualization tool built to explore worldwide focusi
 What the d ashboard does and wht it exists:
 This project is a Power BI dashboard designed to analyze customer churn patterns. It helps identify which customers are likely to leave and uncovers key factors contributing to churn. The goal is to support businesses in making data-driven decisions to improve customer retention and reduce churn rates.
 
-###3. Tech Stack
+### 3. Tech Stack
 •      📊 Power BI – for interactive data visualization and dashboard development
 •      📝 Microsoft Excel / CSV – for data storage and preprocessing
 •      📂 Power Query – for data transformation and cleaning
