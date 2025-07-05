@@ -2,7 +2,7 @@
 Recommended Structure and Order
 1. Customer Churn Analytics: Customer Churn Insights Dashboard
 
-   A dynamic, interactive data visualization tool built to explore worldwide focusing on Customer Churn trends, Data-Driven Decision Making, Identify High-Risk     Customer Segments, Improve Customer Lifetime Value.
+ A dynamic, interactive data visualization tool built to explore worldwide focusing on Customer Churn trends, Data-Driven Decision Making, Identify High-Risk     Customer Segments, Improve Customer Lifetime Value.
 
 2. What the dashboard does and wht it exists:
 
